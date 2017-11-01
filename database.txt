@@ -1,0 +1,10 @@
+================= Laser Infos ================
+1.ID
+2.Laser_ID *** Date+Identification ***
+3.Date_ID
+4.Laser_type_ID
+5.Owner_ID   *** Prototype ? ***
+6.Repair_ID 
+7.Recipe_ID   *** Foam How it's made ***
+8.Weight   *** Poids de l'item ***
+9.Test_ID 
